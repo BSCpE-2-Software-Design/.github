@@ -16,7 +16,7 @@ Final projects for Software Design — BSCpE 2nd Year, A.Y. 2025–2026.
 
 | Repository | Domain | Members |
 |---|---|---|
-| [Chef_Mode_On](https://github.com/BSCpE-2-Software-Design/Chef_Mode_On) | Interactive cooking game | [Dice-e](https://github.com/Dice-e), [Ong-Rj](https://github.com/Ong-Rj), [Keith50321](https://github.com/Keith50321), [renara1n ⋆. 𐙚˚࿔ renarain 𝜗𝜚˚⋆](https://github.com/renara1n) |
+| [Chef_Mode_On](https://github.com/BSCpE-2-Software-Design/Chef_Mode_On) | Interactive cooking game | [Dice-e](https://github.com/Dice-e), [Ong-Rj](https://github.com/Ong-Rj), [Keith50321](https://github.com/Keith50321), [⋆. 𐙚˚࿔ renarain 𝜗𝜚˚⋆](https://github.com/renara1n) |
 | [My-Craft-Engine](https://github.com/BSCpE-2-Software-Design/My-Craft-Engine) | Recipe and Crafting Rule Engine | [Jerelle-Flores](https://github.com/Jerelle-Flores), [zekeklkl](https://github.com/zekeklkl), [elloi22](https://github.com/elloi22), [christinebrofas](https://github.com/christinebrofas) |
 | [Badminton-Tournament-Simulator](https://github.com/BSCpE-2-Software-Design/Badminton-Tournament-Simulator) | Sports League and Tournament Simulator | [legisnianaprincess](https://github.com/legisnianaprincess), [jhnmarilao](https://github.com/jhnmarilao), [jaybasquinas-Jawii19](https://github.com/jaybasquinas-Jawii19) |
 | [Snake-Ladder-SBK](https://github.com/BSCpE-2-Software-Design/Snake-Ladder-SBK) | Snake and Ladder board game | [braynnorbigo-ui](https://github.com/braynnorbigo-ui) |
