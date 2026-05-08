@@ -16,11 +16,11 @@ Final projects for Software Design — BSCpE 2nd Year, A.Y. 2025–2026.
 
 | Repository | Domain | Members |
 |---|---|---|
-| [Chef_Mode_On](https://github.com/BSCpE-2-Software-Design/Chef_Mode_On) | Interactive cooking game | [Dice-e](https://github.com/Dice-e), [Ong-Rj](https://github.com/Ong-Rj), [Keith50321](https://github.com/Keith50321) |
+| [Chef_Mode_On](https://github.com/BSCpE-2-Software-Design/Chef_Mode_On) | Interactive cooking game | [Dice-e](https://github.com/Dice-e), [Ong-Rj](https://github.com/Ong-Rj), [Keith50321](https://github.com/Keith50321), [renara1n ⋆. 𐙚˚࿔ renarain 𝜗𝜚˚⋆](https://github.com/renara1n) |
 | [My-Craft-Engine](https://github.com/BSCpE-2-Software-Design/My-Craft-Engine) | Recipe and Crafting Rule Engine | [Jerelle-Flores](https://github.com/Jerelle-Flores), [zekeklkl](https://github.com/zekeklkl), [elloi22](https://github.com/elloi22), [christinebrofas](https://github.com/christinebrofas) |
 | [Badminton-Tournament-Simulator](https://github.com/BSCpE-2-Software-Design/Badminton-Tournament-Simulator) | Sports League and Tournament Simulator | [legisnianaprincess](https://github.com/legisnianaprincess), [jhnmarilao](https://github.com/jhnmarilao), [jaybasquinas-Jawii19](https://github.com/jaybasquinas-Jawii19) |
 | [Snake-Ladder-SBK](https://github.com/BSCpE-2-Software-Design/Snake-Ladder-SBK) | Snake and Ladder board game | [braynnorbigo-ui](https://github.com/braynnorbigo-ui) |
-| [Sokoban-Push-Puzzle-Final](https://github.com/BSCpE-2-Software-Design/Sokoban-Push-Puzzle-Final) | Puzzle Level Editor and Player | [karinaesther31](https://github.com/karinaesther31) |
+| [Sokoban-Push-Puzzle-Final](https://github.com/BSCpE-2-Software-Design/Sokoban-Push-Puzzle-Final) | Puzzle Level Editor and Player | [karinaesther31](https://github.com/karinaesther31), [AjieSalazar](https://github.com/AjieSalazar) |
 | [EduNexus](https://github.com/BSCpE-2-Software-Design/EduNexus) | Academic Progress and Enrollment Planner | [xaelaed](https://github.com/xaelaed) |
 | [Beach-Volleyball-Analyzer](https://github.com/BSCpE-2-Software-Design/Beach-Volleyball-Analyzer) | Beach volleyball stats and play analyzer | [carlolisay](https://github.com/carlolisay) |
 | [Survival_Chess_Endgame](https://github.com/BSCpE-2-Software-Design/Survival_Chess_Endgame) | Survival chess game | [raiz-coder](https://github.com/raiz-coder) |
