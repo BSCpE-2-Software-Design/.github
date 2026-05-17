@@ -23,7 +23,7 @@ Final projects for Software Design — BSCpE 2nd Year, A.Y. 2025–2026.
 | [Sokoban-Push-Puzzle-Final](https://github.com/BSCpE-2-Software-Design/Sokoban-Push-Puzzle-Final) | Puzzle Level Editor and Player | [karinaesther31](https://github.com/karinaesther31), [AjieSalazar](https://github.com/AjieSalazar) |
 | [EduNexus](https://github.com/BSCpE-2-Software-Design/EduNexus) | Academic Progress and Enrollment Planner | [xaelaed](https://github.com/xaelaed) |
 | [Beach-Volleyball-Analyzer](https://github.com/BSCpE-2-Software-Design/Beach-Volleyball-Analyzer) | Beach volleyball stats and play analyzer | [carlolisay](https://github.com/carlolisay) |
-| [Survival_Chess_Endgame](https://github.com/BSCpE-2-Software-Design/Survival_Chess_Endgame) | Survival chess game | [raiz-coder](https://github.com/raiz-coder) |
+| [CHESS_GAME_SIMULATOR](https://github.com/BSCpE-2-Software-Design/CHESS_GAME_SIMULATOR) | Chess Simulator | [raiz-coder](https://github.com/raiz-coder) |
 | [Libretto](https://github.com/BSCpE-2-Software-Design/Libretto) | Music Library Tagger and Playlist Manager | [nethsoriben](https://github.com/nethsoriben) |
 | [Recipe-and-Crafting-Rule-Engine](https://github.com/BSCpE-2-Software-Design/Recipe-and-Crafting-Rule-Engine) | Recipe and Crafting Rule Engine | [maryfranzarevalo](https://github.com/maryfranzarevalo) |
 | [Basketball-League](https://github.com/BSCpE-2-Software-Design/Basketball-League) | Sports League and Tournament Simulator | [Youngun30](https://github.com/Youngun30) |
